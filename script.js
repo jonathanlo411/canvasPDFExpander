@@ -7,6 +7,7 @@
 // @match        https://canvas.ucsd.edu/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ucsd.edu
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
