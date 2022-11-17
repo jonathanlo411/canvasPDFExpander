@@ -7,7 +7,7 @@ On large screens, Canvas has limited width on many pages. This script removes th
 
 ## Examples
 Example - Before:
-![before_img](https://cdn.discordapp.com/attachments/942218891952783421/1031272292489105448/unknown.png)
+![before_img](https://cdn.discordapp.com/attachments/942218891952783421/1038288801564459069/image.png)
 
 Example - After:
-![after_img](https://cdn.discordapp.com/attachments/942218891952783421/1031272784850059364/unknown.png)
+![after_img](https://cdn.discordapp.com/attachments/942218891952783421/1038288944418279464/image.png)
